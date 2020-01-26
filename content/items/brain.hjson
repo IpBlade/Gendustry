@@ -1,0 +1,6 @@
+type: material
+name: Brain
+description: "Part,that controls body"
+hardness: 1
+cost: 4
+color: ffccee

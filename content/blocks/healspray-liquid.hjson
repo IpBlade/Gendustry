@@ -1,0 +1,7 @@
+type: floor
+name: Healspray
+liquidDrop: healspray
+variants: 1
+playerUnmineable: true
+isLiquid: true
+status: overdrive

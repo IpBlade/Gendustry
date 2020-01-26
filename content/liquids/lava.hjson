@@ -1,0 +1,6 @@
+name: Lava
+description: Combine with water to create obsidian
+temperature: 0.5
+viscosity: 0.8
+effect: melting
+color: ff1a1a

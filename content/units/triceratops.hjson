@@ -1,0 +1,16 @@
+type: GroundUnit
+name: Triceratops
+description: Heavy dino,that will fight with you
+speed: 0.5
+flying: false
+health: 250
+engineOffset: 0
+range: 1
+weapon: {
+  name: claws
+  length: 1.5
+  reload: 10
+  alternate: true
+  bullet: fireball
+}
+

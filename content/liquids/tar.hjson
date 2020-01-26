@@ -1,0 +1,6 @@
+name: Tar
+description: Something like liquid dinos
+temperature: 0.5
+viscosity: 1
+effect: freezing
+color: 5a5a5a

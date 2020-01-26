@@ -1,0 +1,7 @@
+type: floor
+name: Lava
+liquidDrop: lava
+variants: 1
+playerUnmineable: true
+isLiquid: true
+status: melting

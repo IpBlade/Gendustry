@@ -1,0 +1,20 @@
+name: Surgeon
+description: Cuts out organic from sources
+type: Drill
+size: 2
+tier: 10
+drillTime: 250
+consumes: {
+  power: 3
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  metasteel/500
+  titanium/380
+  graphite/120
+]
+category: production

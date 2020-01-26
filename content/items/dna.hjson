@@ -1,0 +1,6 @@
+type: resource
+name: DNA
+description: "DNA contains information about animal"
+hardness: 1
+cost: 4
+color: 0e06f1

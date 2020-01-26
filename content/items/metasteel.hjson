@@ -1,0 +1,6 @@
+type: material
+name: metasteel
+description: Material with high durability.Very acute, if sharpen.
+hardness: 5
+cost: 4
+color: 414981

@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Archeologist
+description: Compresses bones and recovers it
+liquidCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+
+consumes: {
+  power: 4
+  items: {
+    items: [
+      bone-dust/5
+    ]
+  }
+  liquid: {
+    liquid: healspray
+    amount: 1
+  }
+}
+requirements: [
+  metaglass/400
+  titanium/80
+  silicon/150
+  metasteel/25
+  surge-alloy/170
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: bone/1

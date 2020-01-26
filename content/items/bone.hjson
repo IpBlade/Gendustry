@@ -1,0 +1,6 @@
+type: material
+name: Bone
+description: Combine 5 bones in skeleton constructor to recieve skeleton
+hardness: 5
+cost: 4
+color: f4e3e3

@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: DNA constructor
+description: "Recieves biodata from organic"
+liquidCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      organic/1
+    ]
+  }
+  liquid: {
+    liquid: healspray
+    amount: 1
+  }
+}
+requirements: [
+  metaglass/400
+  plastanium/80
+  silicon/180
+  organic/5
+  surge-alloy/170
+]
+category: crafting
+
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: dna/1

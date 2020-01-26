@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Metasteel forge
+description: Produces metasteel
+liquidCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+
+consumes: {
+  power: 5
+  items: {
+    items: [
+      obsidian/1
+      titanium/5
+      metaglass/3
+    ]
+  }
+}
+requirements: [
+  metaglass/260
+  plastanium/170
+  silicon/180
+  surge-alloy/140
+]
+category: crafting
+
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: metasteel/1

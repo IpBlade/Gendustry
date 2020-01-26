@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Obsidian generator
+description: Combines water and lava to produce obsidian
+liquidCapacity: 10
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+
+consumes: {
+  power: 0.1
+  liquid: {
+    liquid: water
+    amount: 1
+    liquid: lava
+    amount: 1
+  }
+}
+requirements: [
+  metaglass/400
+  plastanium/80
+  silicon/180
+  organic/5
+  surge-alloy/170
+]
+category: crafting
+
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: obsidian/1

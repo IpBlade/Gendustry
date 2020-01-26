@@ -1,0 +1,6 @@
+type: material
+name: Muscles
+description: "In flesh & blood"
+hardness: 1
+cost: 4
+color: e32740

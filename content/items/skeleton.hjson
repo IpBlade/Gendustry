@@ -1,0 +1,6 @@
+type: material
+name: Skeleton
+description: "Spooky scary skeleton"
+hardness: 1
+cost: 4
+color: ffffff

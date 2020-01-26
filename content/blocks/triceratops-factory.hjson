@@ -1,0 +1,31 @@
+name: Genetic constructor (Tryceratops)
+description: "Makes copy of tryceratops"
+type: UnitFactory
+unitType: triceratops
+size: 2
+produceTime: 350
+consumes: {
+  power: 3.0
+  items: {
+    items: [
+      organic/10
+      dna/5
+      brain/1
+      organs/1
+      muscles/1
+      skeleton/1
+    ]
+  }
+}
+category: units
+
+requirements: [
+  organic/40
+  metaglass/70
+  silicon/40
+  titanium/60
+]
+
+
+
+

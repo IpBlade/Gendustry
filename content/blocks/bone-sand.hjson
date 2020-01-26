@@ -1,0 +1,4 @@
+type: floor
+name: Bone dust
+itemDrop: bone-dust
+playerUnmineable: true

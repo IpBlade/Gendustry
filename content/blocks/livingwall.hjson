@@ -1,0 +1,14 @@
+name: Living wall
+description: A very strong wall,that will deflect most kind of bullets
+type: Wall
+health: 2000
+size: 2
+hitTime: 1
+maxDamageDeflect: 2000
+requirements: [
+  organs/1
+  skeleton/1
+  brain/1
+  muscles/5
+]
+category: defense

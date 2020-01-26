@@ -1,0 +1,6 @@
+type: material
+name: Organs
+description: "Another organs,that keeps animal live"
+hardness: 1
+cost: 4
+color: c3061f

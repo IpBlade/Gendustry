@@ -1,0 +1,7 @@
+type: floor
+name: Tar
+liquidDrop: tar
+variants: 2
+playerUnmineable: true
+isLiquid: true
+status: freezing

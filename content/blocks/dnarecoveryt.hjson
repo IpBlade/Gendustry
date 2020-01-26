@@ -1,0 +1,36 @@
+type: GenericSmelter
+name: DNA restorer (Tryceratops)
+description: Makes DNA segments of Tryceratops by combining Tar and DNA
+liquidCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+
+consumes: {
+  power: 4
+  items: {
+    items: [
+      dna/5
+    ]
+  }
+  liquid: {
+    liquid: tar
+    amount: 1
+  }
+}
+requirements: [
+  metaglass/150
+  titanium/80
+  silicon/190
+  metasteel/25
+  surge-alloy/100
+]
+category: crafting
+
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: segment-triceratops/1
+
+

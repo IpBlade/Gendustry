@@ -1,0 +1,6 @@
+type: material
+name: DNATric
+description: "DNA of triceratops"
+hardness: 1
+cost: 4
+color: f10606

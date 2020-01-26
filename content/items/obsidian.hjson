@@ -1,0 +1,6 @@
+type: resource
+name: Obsidian
+description: Very fragile
+hardness: 1
+cost: 4
+color: 380074
